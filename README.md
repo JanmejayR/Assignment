@@ -3,6 +3,8 @@
 
 # Used REST API endpoints implemented using Node.js and Express.js
 
+completion time :- around 2-3 hours
+
 ### run npm install to install the required packages (express and postgress) and node server.js to run the server
 
 
